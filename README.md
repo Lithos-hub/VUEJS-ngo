@@ -1,4 +1,4 @@
-# ngo
+# Ficticial NGO main page design
 
 ## Project setup
 ```
